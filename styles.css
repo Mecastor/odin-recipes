@@ -1,0 +1,13 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    background: darkblue;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
